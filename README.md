@@ -8,5 +8,4 @@
 
 ### 🌐 Socials
 [![LinkedIn](https://www.linkedin.com/in/cafiifa-mustafe-31a719276/)
-[![X](https://x.com/CafiifaHariir)
 
