@@ -7,5 +7,8 @@
 - ⚡ Fun fact: [Coding At Night]
 
 ### 🌐 Socials
-[![LinkedIn](https://www.linkedin.com/in/cafiifa-mustafe-31a719276/)
+https://www.linkedin.com/in/cafiifa-mustafe-31a719276.</br>
+https://twitter.com/CafiifaHariir.</br>
+https://www.instagram.com/eng_afiifa_hariir.</br>
+https://facebook.com/cafiifa_mustafe_abdi.</br>
 
