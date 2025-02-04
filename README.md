@@ -10,3 +10,5 @@
 https://www.linkedin.com/in/cafiifa-mustafe-31a719276.</br>
 https://twitter.com/CafiifaHariir.</br>
 <br>
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Cafiifa-Mustafa&theme=dark)
